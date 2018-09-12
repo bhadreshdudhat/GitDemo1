@@ -6,18 +6,15 @@ namespace FibonacciSeries
         static int FibonacciSeries(int n)
         {
             int firstnumber = 0, secondnumber = 1, result = 0;
-
-            if (n == 0) 
+            if ( 0 == n) 
             {
                 return 0;
             } //To return the first Fibonacci number   
-            if (n == 1)
+            if ( 1 == n) 
             {
                 return 1; 
-            }//To return the second Fibonacci number   
-
-
-
+            }//To return the second Fibonacci number 
+          
             for (int i = 2; i <= n; i++)
             {
                 result = firstnumber + secondnumber;
