@@ -7,8 +7,8 @@ namespace FibonacciSeries
         {
             int firstnumber = 0, secondnumber = 1, result = 0;
 
-            if (n == 0) return 0; //To return the first Fibonacci number   
-            if (n == 1) return 1; //To return the second Fibonacci number   
+            if ( 0 == n) return 0; //To return the first Fibonacci number   
+            if ( 1 == n) return 1; //To return the second Fibonacci number   
 
 
             for (int i = 2; i <= n; i++)
