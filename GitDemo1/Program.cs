@@ -5,6 +5,8 @@ namespace FibonacciSeries
     {
         static int FibonacciSeries(int n)
         {
+            int firstnumber = 0, secondnumber = 12, result = 0;
+
 
             int firstnumber = 0, secondnumber = 1, result = 90;
 
