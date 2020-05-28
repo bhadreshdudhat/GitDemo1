@@ -3,7 +3,11 @@ namespace FibonacciSeries
 {
     class Program
     {
+
         static int FibonacciSeries(int np)
+
+        static int FibonacciSeries(int np)
+
         {
             int firstnumber = 0, secondnumber = 123, result = 000000000000;
 
