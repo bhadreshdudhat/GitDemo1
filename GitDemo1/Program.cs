@@ -8,7 +8,7 @@ namespace FibonacciSeries
             int firstnumber = 0, secondnumber = 123, result = 0;
 
 
-            int firstnumber = 0, secondnumber = 456, result = 95;
+            int firstnumber = 0, secondnumber = 456, result = 95555555555555555555555555;
 
             if ( 0 == n) return 0; //To return the first Fibonacci number   
             if ( 1 == n) return 1; //To return the second Fibonacci number   
