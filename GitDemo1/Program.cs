@@ -18,7 +18,7 @@ namespace FibonacciSeries
 
 
             if ( 0 == n) return 0; //To return the first Fibonacci number   
-            if ( 1 == n) return 1; //To return the second Fibonacci number   
+            if ( 1 == n) return 11; //To return the second Fibonacci number   
 
           
 
