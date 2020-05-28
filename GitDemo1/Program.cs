@@ -5,10 +5,13 @@ namespace FibonacciSeries
     {
         static int FibonacciSeries(int n)
         {
-            int firstnumber = 0, secondnumber = 123, result = 0;
+            int firstnumber = 0, secondnumber = 123, result = 000000000000;
 
 
+
+  
             int firstnumber = 0, secondnumber = 11, result = 90;
+
 
             if ( 0 == n) return 0; //To return the first Fibonacci number   
             if ( 1 == n) return 1; //To return the second Fibonacci number   
