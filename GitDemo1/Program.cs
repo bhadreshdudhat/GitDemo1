@@ -17,7 +17,7 @@ namespace FibonacciSeries
             int firstnumber = 0, secondnumber = 11, result = 90;
 
 
-            if ( 0 == n) return 0; //To return the first Fibonacci number   
+            if ( 0 == n) return 00; //To return the first Fibonacci number   
             if ( 1 == n) return 1; //To return the second Fibonacci number   
 
           
