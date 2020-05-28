@@ -3,12 +3,19 @@ namespace FibonacciSeries
 {
     class Program
     {
-        static int FibonacciSeries(int nn)
+
+        static int FibonacciSeries(int np)
+
+        static int FibonacciSeries(int np)
+
         {
-            int firstnumber = 0, secondnumber = 123, result = 0;
+            int firstnumber = 0, secondnumber = 123, result = 000000000000;
 
 
-            int firstnumber = 0, secondnumber = 456, result = 95555555555555555555555555;
+
+  
+            int firstnumber = 0, secondnumber = 11, result = 90;
+
 
             if ( 0 == n) return 0; //To return the first Fibonacci number   
             if ( 1 == n) return 1; //To return the second Fibonacci number   
